@@ -1,6 +1,5 @@
-# React, Node Js, and MongoDB microservices-based application deployment on Kubernetes
+# React, Node Js, and MongoDB microservices-based application deployment
 
-This complete article can be check at [medium.com/@aamirpinger](https://medium.com/@aamirpinger/react-express-node-js-and-mongodb-mern-stack-microservices-based-application-deployment-on-ec4607cec74d)
 
 This is a simple ToDo application build using MERN Stack. It consist of:
 1. The Front-end application is build using React.
