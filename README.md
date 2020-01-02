@@ -1,6 +1,3 @@
-# React, Node Js, and MongoDB microservices-based application deployment
-
-
 This is a simple ToDo application build using MERN Stack. It consist of:
 1. The Front-end application is build using React.
 2. The backend is build using Node Js, Express, and mongoose.
